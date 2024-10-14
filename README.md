@@ -39,4 +39,4 @@ The code has been tested and compiled with:
 As a fork of Stark, the main library entailing all folders except `models` are licensed under the Apache-2.0 license in accordance with Stark itself.
 See the `LICENSE` file for more details.
 
-The `Armadillo.obj`, `Dragon.obj` and `Bunny.obj` in `models` are variations of the Stanford Armadillo, Dragon & Bunny, courtesy of the [Stanford Computer Graphics Laboratory](The Stanford 3D Scanning Repository).
+The `Armadillo.obj`, `Dragon.obj` and `Bunny.obj` in `models` are variations of the Stanford Armadillo, Dragon & Bunny, courtesy of the [Stanford Computer Graphics Laboratory](https://graphics.stanford.edu/data/3Dscanrep/).
