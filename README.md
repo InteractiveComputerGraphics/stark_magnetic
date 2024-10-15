@@ -5,7 +5,7 @@ This repository provides a reference implementation of the publication "Strongly
 > L. Westhofen, J. A. Fernández-Fernández, S. R. Jeske, and J. Bender. 2024. Strongly Coupled Simulation of Magnetic Rigid Bodies. In Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '24). Eurographics Association, Goslar, DEU, 1–11. https://doi.org/10.1111/cgf.15185
 
 Please refer to the [publication page](https://animation.rwth-aachen.de/publication/0590/) for more details. 
-The implementation is implemented into [Stark](https://github.com/InteractiveComputerGraphics/stark).
+The implementation relies mainly on [Stark](https://github.com/InteractiveComputerGraphics/stark).
 Please also check the upstream repository for further details on Stark.
 
 # Building & Running
